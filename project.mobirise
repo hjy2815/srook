@@ -45,7 +45,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SROOKPAY</title>\n    <meta property=\"og:url\" content=\"http://srookpay.net/\">\n    <meta property=\"og:title\" content=\"SROOKPAY\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/ybmo3SK.png\">\n    <meta property=\"og:description\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n    <meta name=\"description\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n    <meta name=\"keywords\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n<meta name=\"naver-site-verification\" content=\"973784f3315d171ac35ee666f97de3431d49459c\"/>\n<meta name=\"google-site-verification\" content=\"vm6h0FSQ4nbxBgBGkjVSM0sRW1UxDTnjAtxAuEESHl8\" />\n    ... \n</head>",
+        "header_custom": "<head>\n    <title>SROOKPAY</title>\n    <meta property=\"og:url\" content=\"https://hjy2815.github.io/srook/\">\n    <meta property=\"og:title\" content=\"SROOKPAY\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/ybmo3SK.png\">\n    <meta property=\"og:description\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n    <meta name=\"description\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n    <meta name=\"keywords\" content=\"인스타그램쇼핑몰:SNS전용 판매 솔루션\">\n    ... \n</head>",
         "footer_custom": "",
         "html_before": ""
       },
